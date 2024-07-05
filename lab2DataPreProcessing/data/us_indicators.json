@@ -1,0 +1,2540 @@
+[
+    {
+        "date": "31/1/2001",
+        "cpi": 1.32,
+        "policy_rate": 1.5,
+        "neer": 89.24,
+        "money_supply": 147.07,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "28/2/2001",
+        "cpi": 1.44,
+        "policy_rate": 1.5,
+        "neer": 90.47,
+        "money_supply": 145.49,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2001",
+        "cpi": 1.44,
+        "policy_rate": 1.5,
+        "neer": 89.33,
+        "money_supply": 140.02,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2001",
+        "cpi": 2.52,
+        "policy_rate": 1.5,
+        "neer": 87.32,
+        "money_supply": 138.88,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2001",
+        "cpi": 2.76,
+        "policy_rate": 1.5,
+        "neer": 87.16,
+        "money_supply": 139.49,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2001",
+        "cpi": 2.15,
+        "policy_rate": 2.5,
+        "neer": 88.3,
+        "money_supply": 139.53,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2001",
+        "cpi": 2.03,
+        "policy_rate": 2.5,
+        "neer": 87.81,
+        "money_supply": 138.87,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2001",
+        "cpi": 1.43,
+        "policy_rate": 2.5,
+        "neer": 87.32,
+        "money_supply": 144.93,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2001",
+        "cpi": 1.3,
+        "policy_rate": 2.5,
+        "neer": 88.12,
+        "money_supply": 144.44,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2001",
+        "cpi": 1.32,
+        "policy_rate": 2.5,
+        "neer": 88.26,
+        "money_supply": 144.56,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2001",
+        "cpi": 0.96,
+        "policy_rate": 2.5,
+        "neer": 89.42,
+        "money_supply": 148.71,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/12/2001",
+        "cpi": 0.72,
+        "policy_rate": 2.25,
+        "neer": 91.11,
+        "money_supply": 148.43,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2002",
+        "cpi": 0.84,
+        "policy_rate": 2.0,
+        "neer": 91.88,
+        "money_supply": 147.27,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "28/2/2002",
+        "cpi": 0.36,
+        "policy_rate": 2.0,
+        "neer": 92.56,
+        "money_supply": 149.9,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2002",
+        "cpi": 0.6,
+        "policy_rate": 2.0,
+        "neer": 92.89,
+        "money_supply": 150.91,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/4/2002",
+        "cpi": 0.47,
+        "policy_rate": 2.0,
+        "neer": 92.36,
+        "money_supply": 152.66,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/5/2002",
+        "cpi": 0.24,
+        "policy_rate": 2.0,
+        "neer": 92.02,
+        "money_supply": 155.95,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2002",
+        "cpi": 0.36,
+        "policy_rate": 2.0,
+        "neer": 92.03,
+        "money_supply": 158.75,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2002",
+        "cpi": 0.24,
+        "policy_rate": 2.0,
+        "neer": 92.41,
+        "money_supply": 157.59,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2002",
+        "cpi": 0.36,
+        "policy_rate": 2.0,
+        "neer": 91.03,
+        "money_supply": 159.25,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2002",
+        "cpi": 0.47,
+        "policy_rate": 2.0,
+        "neer": 90.0,
+        "money_supply": 149.61,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2002",
+        "cpi": 1.53,
+        "policy_rate": 2.0,
+        "neer": 88.9,
+        "money_supply": 150.47,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2002",
+        "cpi": 1.3,
+        "policy_rate": 1.75,
+        "neer": 88.67,
+        "money_supply": 151.77,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2002",
+        "cpi": 1.66,
+        "policy_rate": 1.75,
+        "neer": 88.31,
+        "money_supply": 154.13,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2003",
+        "cpi": 2.24,
+        "policy_rate": 1.75,
+        "neer": 88.18,
+        "money_supply": 157.04,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "28/2/2003",
+        "cpi": 2.0,
+        "policy_rate": 1.75,
+        "neer": 87.85,
+        "money_supply": 157.63,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2003",
+        "cpi": 1.75,
+        "policy_rate": 1.75,
+        "neer": 88.08,
+        "money_supply": 157.89,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2003",
+        "cpi": 1.52,
+        "policy_rate": 1.75,
+        "neer": 87.75,
+        "money_supply": 157.73,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2003",
+        "cpi": 1.87,
+        "policy_rate": 1.75,
+        "neer": 87.3,
+        "money_supply": 163.36,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2003",
+        "cpi": 1.64,
+        "policy_rate": 1.25,
+        "neer": 88.2,
+        "money_supply": 161.57,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2003",
+        "cpi": 1.76,
+        "policy_rate": 1.25,
+        "neer": 88.52,
+        "money_supply": 162.57,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2003",
+        "cpi": 2.23,
+        "policy_rate": 1.25,
+        "neer": 89.34,
+        "money_supply": 166.53,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2003",
+        "cpi": 1.75,
+        "policy_rate": 1.25,
+        "neer": 91.06,
+        "money_supply": 171.74,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2003",
+        "cpi": 1.27,
+        "policy_rate": 1.25,
+        "neer": 90.9,
+        "money_supply": 173.17,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2003",
+        "cpi": 1.87,
+        "policy_rate": 1.25,
+        "neer": 90.41,
+        "money_supply": 176.32,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2003",
+        "cpi": 1.75,
+        "policy_rate": 1.25,
+        "neer": 89.65,
+        "money_supply": 178.24,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2004",
+        "cpi": 1.27,
+        "policy_rate": 1.25,
+        "neer": 90.13,
+        "money_supply": 182.21,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "29/2/2004",
+        "cpi": 2.2,
+        "policy_rate": 1.25,
+        "neer": 89.95,
+        "money_supply": 183.08,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2004",
+        "cpi": 2.44,
+        "policy_rate": 1.25,
+        "neer": 90.09,
+        "money_supply": 183.91,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2004",
+        "cpi": 2.53,
+        "policy_rate": 1.25,
+        "neer": 90.25,
+        "money_supply": 182.81,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2004",
+        "cpi": 2.4,
+        "policy_rate": 1.25,
+        "neer": 88.98,
+        "money_supply": 180.55,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2004",
+        "cpi": 3.11,
+        "policy_rate": 1.25,
+        "neer": 87.84,
+        "money_supply": 177.01,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2004",
+        "cpi": 3.23,
+        "policy_rate": 1.25,
+        "neer": 87.2,
+        "money_supply": 177.64,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2004",
+        "cpi": 3.09,
+        "policy_rate": 1.5,
+        "neer": 86.4,
+        "money_supply": 176.56,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2004",
+        "cpi": 3.55,
+        "policy_rate": 1.5,
+        "neer": 86.32,
+        "money_supply": 178.16,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2004",
+        "cpi": 3.43,
+        "policy_rate": 1.75,
+        "neer": 85.9,
+        "money_supply": 180.72,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2004",
+        "cpi": 2.97,
+        "policy_rate": 1.75,
+        "neer": 86.06,
+        "money_supply": 189.63,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2004",
+        "cpi": 2.97,
+        "policy_rate": 2.0,
+        "neer": 87.57,
+        "money_supply": 192.07,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2005",
+        "cpi": 2.75,
+        "policy_rate": 2.0,
+        "neer": 89.81,
+        "money_supply": 195.79,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "28/2/2005",
+        "cpi": 2.48,
+        "policy_rate": 2.0,
+        "neer": 90.58,
+        "money_supply": 198.82,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2005",
+        "cpi": 3.16,
+        "policy_rate": 2.25,
+        "neer": 90.02,
+        "money_supply": 193.38,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/4/2005",
+        "cpi": 3.49,
+        "policy_rate": 2.25,
+        "neer": 88.61,
+        "money_supply": 192.0,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/5/2005",
+        "cpi": 3.82,
+        "policy_rate": 2.25,
+        "neer": 88.07,
+        "money_supply": 186.79,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2005",
+        "cpi": 3.79,
+        "policy_rate": 2.5,
+        "neer": 86.76,
+        "money_supply": 182.5,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2005",
+        "cpi": 5.35,
+        "policy_rate": 2.75,
+        "neer": 85.84,
+        "money_supply": 182.89,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2005",
+        "cpi": 5.55,
+        "policy_rate": 2.75,
+        "neer": 86.22,
+        "money_supply": 186.03,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2005",
+        "cpi": 5.98,
+        "policy_rate": 3.25,
+        "neer": 86.71,
+        "money_supply": 188.57,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2005",
+        "cpi": 6.32,
+        "policy_rate": 3.75,
+        "neer": 87.94,
+        "money_supply": 190.08,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2005",
+        "cpi": 5.89,
+        "policy_rate": 3.75,
+        "neer": 88.29,
+        "money_supply": 191.14,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/12/2005",
+        "cpi": 5.78,
+        "policy_rate": 4.0,
+        "neer": 87.97,
+        "money_supply": 193.29,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2006",
+        "cpi": 5.88,
+        "policy_rate": 4.25,
+        "neer": 89.9,
+        "money_supply": 208.5,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "28/2/2006",
+        "cpi": 5.52,
+        "policy_rate": 4.25,
+        "neer": 90.67,
+        "money_supply": 208.32,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2006",
+        "cpi": 5.69,
+        "policy_rate": 4.5,
+        "neer": 91.52,
+        "money_supply": 211.35,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/4/2006",
+        "cpi": 6.08,
+        "policy_rate": 4.75,
+        "neer": 93.13,
+        "money_supply": 220.72,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/5/2006",
+        "cpi": 6.14,
+        "policy_rate": 4.75,
+        "neer": 91.45,
+        "money_supply": 219.05,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2006",
+        "cpi": 5.92,
+        "policy_rate": 5.0,
+        "neer": 91.77,
+        "money_supply": 215.99,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2006",
+        "cpi": 4.45,
+        "policy_rate": 5.0,
+        "neer": 92.53,
+        "money_supply": 220.04,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2006",
+        "cpi": 3.79,
+        "policy_rate": 5.0,
+        "neer": 93.18,
+        "money_supply": 223.47,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2006",
+        "cpi": 2.72,
+        "policy_rate": 5.0,
+        "neer": 93.94,
+        "money_supply": 223.69,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2006",
+        "cpi": 2.81,
+        "policy_rate": 5.0,
+        "neer": 94.52,
+        "money_supply": 229.83,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2006",
+        "cpi": 3.46,
+        "policy_rate": 5.0,
+        "neer": 95.6,
+        "money_supply": 239.0,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/12/2006",
+        "cpi": 3.57,
+        "policy_rate": 5.0,
+        "neer": 96.63,
+        "money_supply": 237.65,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2007",
+        "cpi": 3.02,
+        "policy_rate": 4.75,
+        "neer": 96.92,
+        "money_supply": 242.37,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "28/2/2007",
+        "cpi": 2.46,
+        "policy_rate": 4.5,
+        "neer": 97.37,
+        "money_supply": 248.37,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2007",
+        "cpi": 1.97,
+        "policy_rate": 4.5,
+        "neer": 98.6,
+        "money_supply": 253.86,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/4/2007",
+        "cpi": 1.86,
+        "policy_rate": 4.0,
+        "neer": 98.43,
+        "money_supply": 257.31,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/5/2007",
+        "cpi": 1.94,
+        "policy_rate": 3.5,
+        "neer": 99.03,
+        "money_supply": 260.46,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2007",
+        "cpi": 1.94,
+        "policy_rate": 3.5,
+        "neer": 99.42,
+        "money_supply": 258.01,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2007",
+        "cpi": 1.73,
+        "policy_rate": 3.25,
+        "neer": 101.04,
+        "money_supply": 266.82,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2007",
+        "cpi": 1.16,
+        "policy_rate": 3.25,
+        "neer": 99.61,
+        "money_supply": 262.5,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2007",
+        "cpi": 2.04,
+        "policy_rate": 3.25,
+        "neer": 98.52,
+        "money_supply": 262.22,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2007",
+        "cpi": 2.53,
+        "policy_rate": 3.25,
+        "neer": 97.47,
+        "money_supply": 266.07,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2007",
+        "cpi": 3.09,
+        "policy_rate": 3.25,
+        "neer": 96.77,
+        "money_supply": 267.81,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/12/2007",
+        "cpi": 3.09,
+        "policy_rate": 3.25,
+        "neer": 97.86,
+        "money_supply": 270.43,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2008",
+        "cpi": 4.33,
+        "policy_rate": 3.25,
+        "neer": 98.06,
+        "money_supply": 278.27,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "29/2/2008",
+        "cpi": 5.38,
+        "policy_rate": 3.25,
+        "neer": 99.17,
+        "money_supply": 296.21,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2008",
+        "cpi": 5.35,
+        "policy_rate": 3.25,
+        "neer": 100.51,
+        "money_supply": 298.91,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/4/2008",
+        "cpi": 6.08,
+        "policy_rate": 3.25,
+        "neer": 99.94,
+        "money_supply": 297.96,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/5/2008",
+        "cpi": 7.6,
+        "policy_rate": 3.25,
+        "neer": 99.1,
+        "money_supply": 290.81,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2008",
+        "cpi": 8.72,
+        "policy_rate": 3.25,
+        "neer": 96.3,
+        "money_supply": 277.83,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2008",
+        "cpi": 9.16,
+        "policy_rate": 3.5,
+        "neer": 94.92,
+        "money_supply": 276.27,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2008",
+        "cpi": 6.52,
+        "policy_rate": 3.75,
+        "neer": 95.97,
+        "money_supply": 274.81,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2008",
+        "cpi": 6.03,
+        "policy_rate": 3.75,
+        "neer": 96.37,
+        "money_supply": 278.2,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2008",
+        "cpi": 3.88,
+        "policy_rate": 3.75,
+        "neer": 98.49,
+        "money_supply": 272.09,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2008",
+        "cpi": 2.09,
+        "policy_rate": 3.75,
+        "neer": 98.41,
+        "money_supply": 274.23,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/12/2008",
+        "cpi": 0.44,
+        "policy_rate": 2.75,
+        "neer": 96.45,
+        "money_supply": 286.35,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2009",
+        "cpi": -0.48,
+        "policy_rate": 2.0,
+        "neer": 97.22,
+        "money_supply": 287.25,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "28/2/2009",
+        "cpi": -0.12,
+        "policy_rate": 1.5,
+        "neer": 97.97,
+        "money_supply": 282.11,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2009",
+        "cpi": -0.24,
+        "policy_rate": 1.5,
+        "neer": 97.62,
+        "money_supply": 288.33,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2009",
+        "cpi": -0.93,
+        "policy_rate": 1.25,
+        "neer": 97.14,
+        "money_supply": 291.01,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2009",
+        "cpi": -3.4,
+        "policy_rate": 1.25,
+        "neer": 97.07,
+        "money_supply": 300.03,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2009",
+        "cpi": -3.93,
+        "policy_rate": 1.25,
+        "neer": 97.5,
+        "money_supply": 297.26,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2009",
+        "cpi": -4.36,
+        "policy_rate": 1.25,
+        "neer": 97.32,
+        "money_supply": 294.04,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2009",
+        "cpi": -1.15,
+        "policy_rate": 1.25,
+        "neer": 96.89,
+        "money_supply": 297.15,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2009",
+        "cpi": -1.03,
+        "policy_rate": 1.25,
+        "neer": 96.18,
+        "money_supply": 302.32,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2009",
+        "cpi": 0.35,
+        "policy_rate": 1.25,
+        "neer": 95.97,
+        "money_supply": 304.52,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2009",
+        "cpi": 1.88,
+        "policy_rate": 1.25,
+        "neer": 95.84,
+        "money_supply": 311.37,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2009",
+        "cpi": 3.47,
+        "policy_rate": 1.25,
+        "neer": 96.64,
+        "money_supply": 317.97,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2010",
+        "cpi": 4.1,
+        "policy_rate": 1.25,
+        "neer": 97.4,
+        "money_supply": 319.49,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "28/2/2010",
+        "cpi": 3.68,
+        "policy_rate": 1.25,
+        "neer": 98.01,
+        "money_supply": 323.48,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2010",
+        "cpi": 3.42,
+        "policy_rate": 1.25,
+        "neer": 99.54,
+        "money_supply": 335.62,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2010",
+        "cpi": 2.97,
+        "policy_rate": 1.25,
+        "neer": 100.22,
+        "money_supply": 334.93,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2010",
+        "cpi": 3.41,
+        "policy_rate": 1.25,
+        "neer": 101.54,
+        "money_supply": 338.4,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2010",
+        "cpi": 3.32,
+        "policy_rate": 1.25,
+        "neer": 101.79,
+        "money_supply": 334.56,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2010",
+        "cpi": 3.47,
+        "policy_rate": 1.5,
+        "neer": 100.37,
+        "money_supply": 337.53,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2010",
+        "cpi": 3.36,
+        "policy_rate": 1.75,
+        "neer": 101.12,
+        "money_supply": 350.76,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2010",
+        "cpi": 3.04,
+        "policy_rate": 1.75,
+        "neer": 103.13,
+        "money_supply": 366.51,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2010",
+        "cpi": 2.95,
+        "policy_rate": 1.75,
+        "neer": 103.67,
+        "money_supply": 378.58,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2010",
+        "cpi": 2.81,
+        "policy_rate": 1.75,
+        "neer": 104.26,
+        "money_supply": 380.72,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2010",
+        "cpi": 3.09,
+        "policy_rate": 2.0,
+        "neer": 104.2,
+        "money_supply": 391.9,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2011",
+        "cpi": 3.04,
+        "policy_rate": 2.25,
+        "neer": 101.73,
+        "money_supply": 383.13,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "28/2/2011",
+        "cpi": 2.88,
+        "policy_rate": 2.25,
+        "neer": 100.78,
+        "money_supply": 397.19,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2011",
+        "cpi": 3.15,
+        "policy_rate": 2.5,
+        "neer": 101.21,
+        "money_supply": 406.1,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/4/2011",
+        "cpi": 4.04,
+        "policy_rate": 2.75,
+        "neer": 101.23,
+        "money_supply": 418.02,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/5/2011",
+        "cpi": 4.19,
+        "policy_rate": 2.75,
+        "neer": 100.11,
+        "money_supply": 414.2,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2011",
+        "cpi": 4.06,
+        "policy_rate": 3.0,
+        "neer": 99.02,
+        "money_supply": 410.55,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2011",
+        "cpi": 4.1,
+        "policy_rate": 3.25,
+        "neer": 99.89,
+        "money_supply": 429.47,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2011",
+        "cpi": 4.29,
+        "policy_rate": 3.5,
+        "neer": 100.09,
+        "money_supply": 429.84,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2011",
+        "cpi": 4.01,
+        "policy_rate": 3.5,
+        "neer": 100.15,
+        "money_supply": 414.07,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2011",
+        "cpi": 4.19,
+        "policy_rate": 3.5,
+        "neer": 99.44,
+        "money_supply": 428.21,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2011",
+        "cpi": 4.19,
+        "policy_rate": 3.25,
+        "neer": 99.65,
+        "money_supply": 431.51,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/12/2011",
+        "cpi": 3.54,
+        "policy_rate": 3.25,
+        "neer": 99.57,
+        "money_supply": 429.46,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2012",
+        "cpi": 3.37,
+        "policy_rate": 3.0,
+        "neer": 92.55,
+        "money_supply": 442.74,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "29/2/2012",
+        "cpi": 3.34,
+        "policy_rate": 3.0,
+        "neer": 94.25,
+        "money_supply": 453.32,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2012",
+        "cpi": 3.44,
+        "policy_rate": 3.0,
+        "neer": 95.29,
+        "money_supply": 450.79,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/4/2012",
+        "cpi": 2.47,
+        "policy_rate": 3.0,
+        "neer": 101.98,
+        "money_supply": 449.22,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/5/2012",
+        "cpi": 2.52,
+        "policy_rate": 3.0,
+        "neer": 101.4,
+        "money_supply": 435.09,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2012",
+        "cpi": 2.56,
+        "policy_rate": 3.0,
+        "neer": 101.28,
+        "money_supply": 443.74,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2012",
+        "cpi": 2.72,
+        "policy_rate": 3.0,
+        "neer": 101.12,
+        "money_supply": 448.54,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2012",
+        "cpi": 2.69,
+        "policy_rate": 3.0,
+        "neer": 101.4,
+        "money_supply": 456.39,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2012",
+        "cpi": 3.38,
+        "policy_rate": 3.0,
+        "neer": 101.93,
+        "money_supply": 471.91,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2012",
+        "cpi": 3.32,
+        "policy_rate": 2.75,
+        "neer": 102.67,
+        "money_supply": 478.76,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2012",
+        "cpi": 2.73,
+        "policy_rate": 2.75,
+        "neer": 103.08,
+        "money_supply": 484.59,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/12/2012",
+        "cpi": 3.62,
+        "policy_rate": 2.75,
+        "neer": 103.41,
+        "money_supply": 489.26,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2013",
+        "cpi": 3.38,
+        "policy_rate": 2.75,
+        "neer": 106.14,
+        "money_supply": 502.88,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "28/2/2013",
+        "cpi": 3.23,
+        "policy_rate": 2.75,
+        "neer": 107.97,
+        "money_supply": 506.93,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2013",
+        "cpi": 2.69,
+        "policy_rate": 2.75,
+        "neer": 110.07,
+        "money_supply": 519.85,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/4/2013",
+        "cpi": 2.42,
+        "policy_rate": 2.75,
+        "neer": 112.0,
+        "money_supply": 521.49,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/5/2013",
+        "cpi": 2.27,
+        "policy_rate": 2.5,
+        "neer": 110.25,
+        "money_supply": 509.38,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2013",
+        "cpi": 2.25,
+        "policy_rate": 2.5,
+        "neer": 106.87,
+        "money_supply": 496.22,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2013",
+        "cpi": 2.01,
+        "policy_rate": 2.5,
+        "neer": 106.77,
+        "money_supply": 492.3,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2013",
+        "cpi": 1.59,
+        "policy_rate": 2.5,
+        "neer": 105.2,
+        "money_supply": 482.47,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2013",
+        "cpi": 1.43,
+        "policy_rate": 2.5,
+        "neer": 105.03,
+        "money_supply": 498.46,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2013",
+        "cpi": 1.46,
+        "policy_rate": 2.5,
+        "neer": 105.56,
+        "money_supply": 501.32,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2013",
+        "cpi": 1.92,
+        "policy_rate": 2.25,
+        "neer": 104.98,
+        "money_supply": 493.61,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/12/2013",
+        "cpi": 1.67,
+        "policy_rate": 2.25,
+        "neer": 103.42,
+        "money_supply": 491.02,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2014",
+        "cpi": 1.93,
+        "policy_rate": 2.25,
+        "neer": 102.13,
+        "money_supply": 488.38,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "28/2/2014",
+        "cpi": 1.96,
+        "policy_rate": 2.25,
+        "neer": 102.79,
+        "money_supply": 498.52,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2014",
+        "cpi": 2.1,
+        "policy_rate": 2.0,
+        "neer": 103.34,
+        "money_supply": 499.12,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/4/2014",
+        "cpi": 2.46,
+        "policy_rate": 2.0,
+        "neer": 103.26,
+        "money_supply": 499.77,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/5/2014",
+        "cpi": 2.61,
+        "policy_rate": 2.0,
+        "neer": 102.25,
+        "money_supply": 491.77,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2014",
+        "cpi": 2.35,
+        "policy_rate": 2.0,
+        "neer": 102.64,
+        "money_supply": 496.84,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2014",
+        "cpi": 2.16,
+        "policy_rate": 2.0,
+        "neer": 103.73,
+        "money_supply": 499.74,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2014",
+        "cpi": 2.09,
+        "policy_rate": 2.0,
+        "neer": 104.57,
+        "money_supply": 505.06,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2014",
+        "cpi": 1.75,
+        "policy_rate": 2.0,
+        "neer": 105.52,
+        "money_supply": 499.36,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2014",
+        "cpi": 1.48,
+        "policy_rate": 2.0,
+        "neer": 105.77,
+        "money_supply": 500.44,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2014",
+        "cpi": 1.26,
+        "policy_rate": 2.0,
+        "neer": 106.89,
+        "money_supply": 503.72,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/12/2014",
+        "cpi": 0.6,
+        "policy_rate": 2.0,
+        "neer": 108.53,
+        "money_supply": 510.76,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2015",
+        "cpi": -0.4,
+        "policy_rate": 2.0,
+        "neer": 110.33,
+        "money_supply": 517.66,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "28/2/2015",
+        "cpi": -0.53,
+        "policy_rate": 2.0,
+        "neer": 111.71,
+        "money_supply": 528.52,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2015",
+        "cpi": -0.56,
+        "policy_rate": 1.75,
+        "neer": 112.84,
+        "money_supply": 528.0,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2015",
+        "cpi": -1.04,
+        "policy_rate": 1.5,
+        "neer": 112.23,
+        "money_supply": 519.66,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2015",
+        "cpi": -1.27,
+        "policy_rate": 1.5,
+        "neer": 108.49,
+        "money_supply": 510.31,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2015",
+        "cpi": -1.06,
+        "policy_rate": 1.5,
+        "neer": 108.99,
+        "money_supply": 506.26,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2015",
+        "cpi": -1.05,
+        "policy_rate": 1.5,
+        "neer": 108.11,
+        "money_supply": 488.05,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2015",
+        "cpi": -1.19,
+        "policy_rate": 1.5,
+        "neer": 106.38,
+        "money_supply": 475.13,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2015",
+        "cpi": -1.07,
+        "policy_rate": 1.5,
+        "neer": 105.29,
+        "money_supply": 469.44,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2015",
+        "cpi": -0.77,
+        "policy_rate": 1.5,
+        "neer": 105.4,
+        "money_supply": 482.83,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2015",
+        "cpi": -0.98,
+        "policy_rate": 1.5,
+        "neer": 106.34,
+        "money_supply": 484.33,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2015",
+        "cpi": -0.86,
+        "policy_rate": 1.5,
+        "neer": 106.04,
+        "money_supply": 487.27,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2016",
+        "cpi": -0.54,
+        "policy_rate": 1.5,
+        "neer": 106.54,
+        "money_supply": 494.29,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "29/2/2016",
+        "cpi": -0.5,
+        "policy_rate": 1.5,
+        "neer": 106.95,
+        "money_supply": 498.05,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2016",
+        "cpi": -0.46,
+        "policy_rate": 1.5,
+        "neer": 106.48,
+        "money_supply": 507.49,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2016",
+        "cpi": 0.06,
+        "policy_rate": 1.5,
+        "neer": 105.3,
+        "money_supply": 512.53,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2016",
+        "cpi": 0.46,
+        "policy_rate": 1.5,
+        "neer": 104.98,
+        "money_supply": 498.85,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2016",
+        "cpi": 0.39,
+        "policy_rate": 1.5,
+        "neer": 104.99,
+        "money_supply": 507.61,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2016",
+        "cpi": 0.11,
+        "policy_rate": 1.5,
+        "neer": 105.63,
+        "money_supply": 511.57,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2016",
+        "cpi": 0.29,
+        "policy_rate": 1.5,
+        "neer": 105.74,
+        "money_supply": 513.14,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2016",
+        "cpi": 0.38,
+        "policy_rate": 1.5,
+        "neer": 106.07,
+        "money_supply": 513.29,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2016",
+        "cpi": 0.34,
+        "policy_rate": 1.5,
+        "neer": 105.99,
+        "money_supply": 513.29,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2016",
+        "cpi": 0.61,
+        "policy_rate": 1.5,
+        "neer": 107.14,
+        "money_supply": 507.13,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2016",
+        "cpi": 1.12,
+        "policy_rate": 1.5,
+        "neer": 107.83,
+        "money_supply": 510.19,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2017",
+        "cpi": 1.55,
+        "policy_rate": 1.5,
+        "neer": 108.3,
+        "money_supply": 522.1,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "28/2/2017",
+        "cpi": 1.45,
+        "policy_rate": 1.5,
+        "neer": 108.7,
+        "money_supply": 528.02,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2017",
+        "cpi": 0.76,
+        "policy_rate": 1.5,
+        "neer": 108.97,
+        "money_supply": 536.17,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2017",
+        "cpi": 0.38,
+        "policy_rate": 1.5,
+        "neer": 109.61,
+        "money_supply": 536.13,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2017",
+        "cpi": -0.04,
+        "policy_rate": 1.5,
+        "neer": 109.48,
+        "money_supply": 545.42,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2017",
+        "cpi": -0.05,
+        "policy_rate": 1.5,
+        "neer": 110.3,
+        "money_supply": 548.64,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2017",
+        "cpi": 0.16,
+        "policy_rate": 1.5,
+        "neer": 110.89,
+        "money_supply": 558.27,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2017",
+        "cpi": 0.32,
+        "policy_rate": 1.5,
+        "neer": 111.37,
+        "money_supply": 560.61,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2017",
+        "cpi": 0.86,
+        "policy_rate": 1.5,
+        "neer": 111.18,
+        "money_supply": 558.99,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2017",
+        "cpi": 0.86,
+        "policy_rate": 1.5,
+        "neer": 111.98,
+        "money_supply": 564.14,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2017",
+        "cpi": 0.98,
+        "policy_rate": 1.5,
+        "neer": 113.12,
+        "money_supply": 580.5,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2017",
+        "cpi": 0.78,
+        "policy_rate": 1.5,
+        "neer": 113.47,
+        "money_supply": 589.64,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2018",
+        "cpi": 0.68,
+        "policy_rate": 1.5,
+        "neer": 114.14,
+        "money_supply": 614.71,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "28/2/2018",
+        "cpi": 0.42,
+        "policy_rate": 1.5,
+        "neer": 114.75,
+        "money_supply": 614.7,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2018",
+        "cpi": 0.79,
+        "policy_rate": 1.5,
+        "neer": 115.45,
+        "money_supply": 626.57,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2018",
+        "cpi": 1.07,
+        "policy_rate": 1.5,
+        "neer": 115.84,
+        "money_supply": 619.78,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2018",
+        "cpi": 1.49,
+        "policy_rate": 1.5,
+        "neer": 115.37,
+        "money_supply": 610.1,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2018",
+        "cpi": 1.39,
+        "policy_rate": 1.5,
+        "neer": 114.53,
+        "money_supply": 592.34,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2018",
+        "cpi": 1.47,
+        "policy_rate": 1.5,
+        "neer": 113.26,
+        "money_supply": 588.32,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2018",
+        "cpi": 1.62,
+        "policy_rate": 1.5,
+        "neer": 115.15,
+        "money_supply": 593.26,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2018",
+        "cpi": 1.33,
+        "policy_rate": 1.5,
+        "neer": 117.28,
+        "money_supply": 604.1,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2018",
+        "cpi": 1.24,
+        "policy_rate": 1.5,
+        "neer": 117.32,
+        "money_supply": 596.03,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2018",
+        "cpi": 0.94,
+        "policy_rate": 1.5,
+        "neer": 116.57,
+        "money_supply": 602.38,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2018",
+        "cpi": 0.35,
+        "policy_rate": 1.75,
+        "neer": 117.17,
+        "money_supply": 622.05,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2019",
+        "cpi": 0.26,
+        "policy_rate": 1.75,
+        "neer": 119.11,
+        "money_supply": 643.99,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "28/2/2019",
+        "cpi": 0.73,
+        "policy_rate": 1.75,
+        "neer": 121.02,
+        "money_supply": 642.02,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2019",
+        "cpi": 1.24,
+        "policy_rate": 1.75,
+        "neer": 119.68,
+        "money_supply": 638.72,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2019",
+        "cpi": 1.23,
+        "policy_rate": 1.75,
+        "neer": 119.41,
+        "money_supply": 638.86,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2019",
+        "cpi": 1.15,
+        "policy_rate": 1.75,
+        "neer": 120.52,
+        "money_supply": 643.11,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2019",
+        "cpi": 0.87,
+        "policy_rate": 1.75,
+        "neer": 122.61,
+        "money_supply": 658.85,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2019",
+        "cpi": 0.98,
+        "policy_rate": 1.75,
+        "neer": 123.59,
+        "money_supply": 658.16,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2019",
+        "cpi": 0.52,
+        "policy_rate": 1.5,
+        "neer": 125.18,
+        "money_supply": 664.44,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2019",
+        "cpi": 0.32,
+        "policy_rate": 1.5,
+        "neer": 126.22,
+        "money_supply": 668.06,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2019",
+        "cpi": 0.11,
+        "policy_rate": 1.5,
+        "neer": 126.85,
+        "money_supply": 682.35,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2019",
+        "cpi": 0.2,
+        "policy_rate": 1.25,
+        "neer": 126.92,
+        "money_supply": 685.13,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2019",
+        "cpi": 0.88,
+        "policy_rate": 1.25,
+        "neer": 126.74,
+        "money_supply": 700.4,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2020",
+        "cpi": 1.06,
+        "policy_rate": 1.25,
+        "neer": 125.14,
+        "money_supply": 668.54,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "29/2/2020",
+        "cpi": 0.74,
+        "policy_rate": 1.0,
+        "neer": 123.02,
+        "money_supply": 664.01,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2020",
+        "cpi": -0.54,
+        "policy_rate": 0.75,
+        "neer": 121.71,
+        "money_supply": 667.47,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2020",
+        "cpi": -2.99,
+        "policy_rate": 0.75,
+        "neer": 120.88,
+        "money_supply": 685.97,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2020",
+        "cpi": -3.44,
+        "policy_rate": 0.5,
+        "neer": 122.56,
+        "money_supply": 706.61,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2020",
+        "cpi": -1.58,
+        "policy_rate": 0.5,
+        "neer": 124.21,
+        "money_supply": 726.46,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2020",
+        "cpi": -0.98,
+        "policy_rate": 0.5,
+        "neer": 122.55,
+        "money_supply": 721.48,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2020",
+        "cpi": -0.5,
+        "policy_rate": 0.5,
+        "neer": 122.21,
+        "money_supply": 724.0,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2020",
+        "cpi": -0.7,
+        "policy_rate": 0.5,
+        "neer": 121.13,
+        "money_supply": 709.89,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2020",
+        "cpi": -0.5,
+        "policy_rate": 0.5,
+        "neer": 121.23,
+        "money_supply": 722.2,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2020",
+        "cpi": -0.41,
+        "policy_rate": 0.5,
+        "neer": 123.03,
+        "money_supply": 751.91,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2020",
+        "cpi": -0.27,
+        "policy_rate": 0.5,
+        "neer": 123.17,
+        "money_supply": 765.12,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2021",
+        "cpi": -0.34,
+        "policy_rate": 0.5,
+        "neer": 123.03,
+        "money_supply": 765.73,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "28/2/2021",
+        "cpi": -1.17,
+        "policy_rate": 0.5,
+        "neer": 123.48,
+        "money_supply": 755.91,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2021",
+        "cpi": -0.08,
+        "policy_rate": 0.5,
+        "neer": 121.86,
+        "money_supply": 739.58,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2021",
+        "cpi": 3.41,
+        "policy_rate": 0.5,
+        "neer": 119.75,
+        "money_supply": 745.35,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2021",
+        "cpi": 2.44,
+        "policy_rate": 0.5,
+        "neer": 119.17,
+        "money_supply": 746.23,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2021",
+        "cpi": 1.25,
+        "policy_rate": 0.5,
+        "neer": 118.91,
+        "money_supply": 720.8,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2021",
+        "cpi": 0.45,
+        "policy_rate": 0.5,
+        "neer": 115.8,
+        "money_supply": 706.81,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2021",
+        "cpi": -0.02,
+        "policy_rate": 0.5,
+        "neer": 114.27,
+        "money_supply": 724.77,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2021",
+        "cpi": 1.68,
+        "policy_rate": 0.5,
+        "neer": 114.35,
+        "money_supply": 698.22,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2021",
+        "cpi": 2.38,
+        "policy_rate": 0.5,
+        "neer": 113.69,
+        "money_supply": 711.33,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2021",
+        "cpi": 2.71,
+        "policy_rate": 0.5,
+        "neer": 115.54,
+        "money_supply": 706.18,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2021",
+        "cpi": 2.17,
+        "policy_rate": 0.5,
+        "neer": 114.41,
+        "money_supply": 724.57,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2022",
+        "cpi": 3.23,
+        "policy_rate": 0.5,
+        "neer": 115.54,
+        "money_supply": 724.4,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "28/2/2022",
+        "cpi": 5.28,
+        "policy_rate": 0.5,
+        "neer": 117.56,
+        "money_supply": 742.43,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2022",
+        "cpi": 5.73,
+        "policy_rate": 0.5,
+        "neer": 117.14,
+        "money_supply": 738.17,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2022",
+        "cpi": 4.65,
+        "policy_rate": 0.5,
+        "neer": 116.38,
+        "money_supply": 718.32,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2022",
+        "cpi": 7.1,
+        "policy_rate": 0.5,
+        "neer": 116.33,
+        "money_supply": 718.74,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/6/2022",
+        "cpi": 7.66,
+        "policy_rate": 0.5,
+        "neer": 115.26,
+        "money_supply": 695.21,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/7/2022",
+        "cpi": 7.61,
+        "policy_rate": 0.5,
+        "neer": 112.66,
+        "money_supply": 673.95,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/8/2022",
+        "cpi": 7.86,
+        "policy_rate": 0.75,
+        "neer": 114.34,
+        "money_supply": 672.19,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/9/2022",
+        "cpi": 6.41,
+        "policy_rate": 1.0,
+        "neer": 113.64,
+        "money_supply": 649.69,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/10/2022",
+        "cpi": 5.98,
+        "policy_rate": 1.0,
+        "neer": 112.95,
+        "money_supply": 649.33,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/11/2022",
+        "cpi": 5.55,
+        "policy_rate": 1.0,
+        "neer": 115.92,
+        "money_supply": 706.96,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/12/2022",
+        "cpi": 5.89,
+        "policy_rate": 1.25,
+        "neer": 118.42,
+        "money_supply": 721.26,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/1/2023",
+        "cpi": 5.02,
+        "policy_rate": 1.5,
+        "neer": 121.91,
+        "money_supply": 760.44,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "28/2/2023",
+        "cpi": 3.79,
+        "policy_rate": 1.5,
+        "neer": 119.92,
+        "money_supply": 713.86,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/3/2023",
+        "cpi": 2.83,
+        "policy_rate": 1.75,
+        "neer": 119.2,
+        "money_supply": 739.6,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "30/4/2023",
+        "cpi": 2.67,
+        "policy_rate": 1.75,
+        "neer": 119.52,
+        "money_supply": 738.3,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "ease"
+    },
+    {
+        "date": "31/5/2023",
+        "cpi": 0.53,
+        "policy_rate": 2.0,
+        "neer": 120.63,
+        "money_supply": 721.75,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2023",
+        "cpi": 0.23,
+        "policy_rate": 2.0,
+        "neer": 119.32,
+        "money_supply": 707.34,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/7/2023",
+        "cpi": 0.38,
+        "policy_rate": 2.0,
+        "neer": 120.21,
+        "money_supply": 730.53,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/8/2023",
+        "cpi": 0.88,
+        "policy_rate": 2.25,
+        "neer": 120.44,
+        "money_supply": 711.42,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/9/2023",
+        "cpi": 0.3,
+        "policy_rate": 2.5,
+        "neer": 118.91,
+        "money_supply": 684.64,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/10/2023",
+        "cpi": -0.31,
+        "policy_rate": 2.5,
+        "neer": 117.73,
+        "money_supply": 696.73,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/11/2023",
+        "cpi": -0.44,
+        "policy_rate": 2.5,
+        "neer": 119.82,
+        "money_supply": 718.31,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/12/2023",
+        "cpi": -0.83,
+        "policy_rate": 2.5,
+        "neer": 120.09,
+        "money_supply": 741.16,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/1/2024",
+        "cpi": -1.11,
+        "policy_rate": 2.5,
+        "neer": 119.73,
+        "money_supply": 721.62,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "29/2/2024",
+        "cpi": -0.77,
+        "policy_rate": 2.5,
+        "neer": 118.51,
+        "money_supply": 718.27,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/3/2024",
+        "cpi": -0.47,
+        "policy_rate": 2.5,
+        "neer": 118.11,
+        "money_supply": 711.58,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/4/2024",
+        "cpi": 0.19,
+        "policy_rate": 2.5,
+        "neer": 116.8,
+        "money_supply": 695.69,
+        "inflation_target": "outrrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "31/5/2024",
+        "cpi": 1.54,
+        "policy_rate": 2.5,
+        "neer": 117.21,
+        "money_supply": 702.68,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    },
+    {
+        "date": "30/6/2024",
+        "cpi": 1.54,
+        "policy_rate": 2.5,
+        "neer": 117.55,
+        "money_supply": 702.68,
+        "inflation_target": "inrange",
+        "type_of_monetary_policy": "tight"
+    }
+]
