@@ -1,0 +1,5 @@
+type_of_monetary_policy,inflation_target,policy_rate,neer,money_supply
+ease,inrange,1.4655172413793103,89.33,5508.43
+ease,outrrange,1.4166666666666667,98.01,11522.46
+tight,inrange,2.75,101.4,18116.45
+tight,outrrange,3.108695652173913,95.97,20305.35
